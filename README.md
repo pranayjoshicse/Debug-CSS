@@ -1,6 +1,6 @@
 ![](icon_128.png)
 
-# Debug CSS
+# Debug CSS [Add to chrome](https://chrome.google.com/webstore/detail/debug-css/igiofjnckcagmjgdoaakafngegecjnkj?hl=en-US&gl=IN)
 
 A lightweight extension for Google chrome to show outline of all the element exist on page.
 
