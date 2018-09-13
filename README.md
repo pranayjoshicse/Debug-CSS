@@ -1,3 +1,5 @@
+![](icon_128.png)
+
 # Debug CSS
 
 A lightweight extension for Google chrome to show outline of all the element exist on page.
@@ -30,6 +32,28 @@ add the below code snippet in any CSS of a web page
   }`
 
 The extension does the same the only thing is; it gives different color to different element(s) while the code snippet adds red outline to every element.  
+
+----------
+
+# In Action
+
+
+
+- Once installed extension will be listed to the `chrome:\\extension URL` and a small icon will be available next to address bar
+
+![](img\listing.png)
+
+
+
+
+- Click the extension icon to toggle debug CSS or use shortcut key (Shift+Alt+C)
+
+![](img\inAction.PNG)
+
+
+To get more detail about any element hold Ctrl key and hover on it, a info bar at the bottom of the page will display details about the element such as its type (e.g. div, nav, section etc), class(es) applied to it along with its Id.
+
+![](img\inActionWithInfo.PNG)
 
 ----------
 
