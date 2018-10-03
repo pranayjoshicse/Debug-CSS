@@ -1,12 +1,12 @@
 ![](icon_128.png)
 
-# Debug CSS [Add to chrome](https://chrome.google.com/webstore/detail/debug-css/igiofjnckcagmjgdoaakafngegecjnkj?hl=en-US&gl=IN)
+# Debug CSS [Add to chrome](https://chrome.google.com/webstore/detail/debug-css/igiofjnckcagmjgdoaakafngegecjnkj?hl=en-US&gl=IN)   [Add to Mozilla](https://addons.mozilla.org/en-US/firefox/addon/pranay-joshi/)
 
-A lightweight extension for Google chrome to show outline of all the element exist on page.
+A lightweight extension for Google chrome and mozilla Firefox to show outline of all the element exist on page.
 
 while working on web page development the one of the difficult part is to position the element as required and check which element affecting the other one.
 
-This chrome extension allows user to see outline on every element of the page. Hold the keyboard Ctrl button and hover element it will show the element details along with the value.
+This chrome & and mozilla Firefox extension allows user to see outline on every element of the page. Hold the keyboard Ctrl button and hover element it will show the element details along with the value.
 
 ----------
 
