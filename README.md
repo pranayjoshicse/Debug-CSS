@@ -1,6 +1,6 @@
 ![](icon_128.png)
 
-# Debug CSS [Add to chrome](https://chrome.google.com/webstore/detail/debug-css/igiofjnckcagmjgdoaakafngegecjnkj?hl=en-US&gl=IN)   [Add to Mozilla](https://addons.mozilla.org/en-US/firefox/addon/pranay-joshi/)
+# Debug CSS [Add to chrome](https://chrome.google.com/webstore/detail/debug-css/igiofjnckcagmjgdoaakafngegecjnkj?hl=en-US&gl=IN) || [Add to Mozilla](https://addons.mozilla.org/en-US/firefox/addon/pranay-joshi/) || [Add to Edge](https://microsoftedge.microsoft.com/addons/detail/debug-css/chlajdlkaknpjjgodghbapjhogoigegh)
 
 A lightweight extension for Google chrome and mozilla Firefox to show outline of all the element exist on page.
 
